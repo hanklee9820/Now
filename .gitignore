@@ -1,0 +1,17 @@
+.DS_Store
+
+# Android local machine config
+android/local.properties
+
+# Swift Package Manager build artifacts
+iOS/Packages/**/.build/
+
+# Xcode user-specific state
+**/xcuserdata/
+**/*.xcuserstate
+
+# Generated workspace state
+iOS/NowSimple.xcworkspace/
+
+# Legacy CocoaPods generated files
+iOS/Pods/
